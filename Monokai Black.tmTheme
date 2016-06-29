@@ -1,4 +1,7 @@
-<?xml version='1.0' encoding='us-ascii'?> 
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
 	<key>name</key>
 	<string>Monokai MatDesign</string>
 	<key>settings</key>
@@ -381,3 +384,4 @@
 	<key>uuid</key>
 	<string>D8D5E82E-3D5B-46B5-B38E-8C841C21347D</string>
 </dict>
+</plist>
